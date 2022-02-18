@@ -26,7 +26,7 @@ Repositório exclusivo para demonstrar meus progressos e atividades relacionadas
 | - *Introdução ao ecossistema .NET e documentação.* | Concluído    |
 | - *Criando o ambiente de desenvolvimento.* | Concluído    |
 | - *IDE instalação e configuração (VSCode).* | Concluído    |
-| - *Primeiros passos com .NET.*           | Em Andamento    |
+| - *Primeiros passos com .NET.*           | Concluído    |
 | - *Trabalhando com tipos de referência e valor em C#.* | Em Andamento    |
 | - *Controlando o fluxo de execução.*     | Em Andamento |
 | - *Introdução ao HTTP/HTTPS.*            | Em Andamento |
