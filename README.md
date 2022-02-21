@@ -28,15 +28,15 @@ Repositório exclusivo para demonstrar meus progressos e atividades relacionadas
 | - *IDE instalação e configuração (VSCode).* | Concluído    |
 | - *Primeiros passos com .NET.*           | Concluído    |
 | - *Trabalhando com tipos de referência e valor em C#.* | Em Andamento    |
-| - *Controlando o fluxo de execução.*     | Em Andamento |
-| - *Introdução ao HTTP/HTTPS.*            | Em Andamento |
-| - *Trabalhando com arquivos e streams em C#.* | Em Andamento |
-| - *Construtores, propriedades, delegates e eventos em .NET.* | Em Andamento |
-| - *Programando com orienteção a objeto com C#.* | Em Andamento |
-| - *Fundamentos de coleção e LINQ com .NET.* | Em Andamento |
-| - *Tratamento de erro em C# com exceptions.* | Em Andamento |
-| - *Desenvolvimento de aplicações com .NET.* | Em Andamento |
-| - *Configuração da arquitetura back-end com .NET Core.* | Em Andamento |
+| - *Controlando o fluxo de execução.*     | Não iniciado |
+| - *Introdução ao HTTP/HTTPS.*            | Não iniciado |
+| - *Trabalhando com arquivos e streams em C#.* | Não iniciado |
+| - *Construtores, propriedades, delegates e eventos em .NET.* | Não iniciado |
+| - *Programando com orienteção a objeto com C#.* | Não iniciado |
+| - *Fundamentos de coleção e LINQ com .NET.* | Não iniciado |
+| - *Tratamento de erro em C# com exceptions.* | Não iniciado |
+| - *Desenvolvimento de aplicações com .NET.* | Não iniciado |
+| - *Configuração da arquitetura back-end com .NET Core.* | Não iniciado |
 
 Sinta-se a vontade a entrar na **DIO** (Digital Innovation One) para aprimorar ou adentrar no mundo da tecnologia da informação! "*A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento.*" - Platão.
 
