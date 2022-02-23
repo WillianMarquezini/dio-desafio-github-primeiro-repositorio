@@ -27,8 +27,8 @@ Repositório exclusivo para demonstrar meus progressos e atividades relacionadas
 | - *Criando o ambiente de desenvolvimento.* | Concluído    |
 | - *IDE instalação e configuração (VSCode).* | Concluído    |
 | - *Primeiros passos com .NET.*           | Concluído    |
-| - *Trabalhando com tipos de referência e valor em C#.* | Em Andamento    |
-| - *Controlando o fluxo de execução.*     | Não iniciado |
+| - *Trabalhando com tipos de referência e valor em C#.* | Concluído    |
+| - *Controlando o fluxo de execução.*     | Em andamento |
 | - *Introdução ao HTTP/HTTPS.*            | Não iniciado |
 | - *Trabalhando com arquivos e streams em C#.* | Não iniciado |
 | - *Construtores, propriedades, delegates e eventos em .NET.* | Não iniciado |
