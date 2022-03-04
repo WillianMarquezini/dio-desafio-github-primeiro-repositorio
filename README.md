@@ -32,11 +32,11 @@ Repositório exclusivo para demonstrar meus progressos e atividades relacionadas
 | - *Introdução ao HTTP/HTTPS.*            | Concluído |
 | - *Trabalhando com arquivos e streams em C#.* | Concluído |
 | - *Construtores, propriedades, delegates e eventos em .NET.* | Concluído |
-| - *Programando com orienteção a objeto com C#.* | Não iniciado |
-| - *Fundamentos de coleção e LINQ com .NET.* | Não iniciado |
-| - *Tratamento de erro em C# com exceptions.* | Não iniciado |
-| - *Desenvolvimento de aplicações com .NET.* | Não iniciado |
-| - *Configuração da arquitetura back-end com .NET Core.* | Não iniciado |
+| - *Programando com orienteção a objeto com C#.* | Concluído |
+| - *Fundamentos de coleção e LINQ com .NET.* | Concluído |
+| - *Tratamento de erro em C# com exceptions.* | Concluído |
+| - *Desenvolvimento de aplicações com .NET.* | Concluído |
+| - *Configuração da arquitetura back-end com .NET Core.* | Concluído |
 
 Sinta-se a vontade a entrar na **DIO** (Digital Innovation One) para aprimorar ou adentrar no mundo da tecnologia da informação! "*A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento.*" - Platão.
 
