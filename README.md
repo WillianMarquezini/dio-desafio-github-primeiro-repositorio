@@ -9,10 +9,10 @@ Repositório exclusivo para demonstrar meus progressos e atividades relacionadas
 | **Atividades**                           | **Status**   |
 | :--------------------------------------- | :----------- |
 | - *Criando seu primeiro repositório no GitHub para compartilhar seu progresso.* | Concluído    |
-| - *Desafios iniciais - GFT Start #3 dotNET* | Em Andamento     |
-| - *Abstraindo um jogo de RPG usando orientação a objeto com C#* | Em Andamento |
-| - *Criando um APP simples de cadastro de séries em dotNET* | Em Andamento |
-| - *Desafios básicos - GFT Start #3 dotNET* | Em Andamento |
+| - *Desafios iniciais - GFT Start #3 dotNET* | Concluído     |
+| - *Abstraindo um jogo de RPG usando orientação a objeto com C#* | Concluído |
+| - *Criando um APP simples de cadastro de séries em dotNET* | Concluído |
+| - *Desafios básicos - GFT Start #3 dotNET* | Concluído |
 
 ### MATÉRIAS
 
