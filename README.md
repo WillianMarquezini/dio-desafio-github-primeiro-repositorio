@@ -10,8 +10,8 @@ Repositório exclusivo para demonstrar meus progressos e atividades relacionadas
 | :--------------------------------------- | :----------- |
 | - *Criando seu primeiro repositório no GitHub para compartilhar seu progresso.* | Concluído    |
 | - *Desafios iniciais - GFT Start #3 dotNET* | Concluído     |
-| - *Abstraindo um jogo de RPG usando orientação a objeto com C#* | Concluído |
-| - *Criando um APP simples de cadastro de séries em dotNET* | Concluído |
+| - *Abstraindo um jogo de RPG usando orientação a objeto com C#* |[Concluído](https://github.com/WillianMarquezini/RPG_com_Orientacao_a_Objetos_Csharp-master.git)|
+| - *Criando um APP simples de cadastro de séries em dotNET* | [Concluído](https://github.com/WillianMarquezini/App_Cadastro_de_Serie.git) |
 | - *Desafios básicos - GFT Start #3 dotNET* | Concluído |
 
 ### MATÉRIAS
